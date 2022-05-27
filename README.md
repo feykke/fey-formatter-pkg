@@ -1,4 +1,4 @@
-# Funções úteis para formatação BRASIl
+# Funções úteis para formatação BRASIL
 
 ### Instalação
 ```shell
